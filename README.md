@@ -1,1 +1,29 @@
-# AWS
+AWS CONCEPTS
+-  Introuduction of AWS
+-  IAM (Identity Access Management)
+-  EC2 Instance (Elastic Cloud Compute)\
+-  AWS Security
+-  AWS Route53
+-  Secure VPC Setup wiht EC2 Instances
+-  Amazon s3
+-  AWS Cloud formation
+-  AWS Elastic Beanstalk
+-  AWS CodeCommit
+-  AWS Code Build
+-  AWS Code Deploy
+-  AWS Cloud Watch
+-  AWS Lambda
+-  AWS CloudWatch Events and Event Bridge
+-  AWS CloudTrail and Config
+-  AWS DyamoDB
+-  AWS ECS (Elstic Container Service)
+-  AWS ECR (Elastic Container Registry)
+-  AWS EKS (Elastic Kubernetes Service
+-  AWS CloudWatch Logs
+-  AWS Secrets Manager
+-  AWS Auto Scaling
+-  AWS RDS (Relational Database Service)
+-  AWS Elastic Load Balancer
+-  AWS System Manager
+-  AWS Cloud Migration Strategies and Tools
+-  AWS Best Practices and Job preparation
