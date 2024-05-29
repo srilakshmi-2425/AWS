@@ -1,7 +1,7 @@
 AWS CONCEPTS
 -  Introuduction of AWS
 -  IAM (Identity Access Management)
--  EC2 Instance (Elastic Cloud Compute)\
+-  EC2 Instance (Elastic Cloud Compute)
 -  AWS Security
 -  AWS Route53
 -  Secure VPC Setup wiht EC2 Instances
