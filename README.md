@@ -33,6 +33,7 @@ AWS CONCEPTS
       otherway, Roles are created for talking to one AWS account to another AWS accountant.
       
 -  EC2 Instance (Elastic Cloud Compute)
+   -  Today prepare the notes for EC2 Instance
 -  AWS Security
 -  AWS Route53
 -  Secure VPC Setup wiht EC2 Instances
